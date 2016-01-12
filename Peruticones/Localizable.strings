@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  ElComercioMovil
+
+  Created by Mar on 7/21/14.
+  Copyright (c) 2014 Empresa Editora El Comercio. All rights reserved.
+ 
+com.eeec.Peruticones.Keyboard
+$(PRODUCT_BUNDLE_IDENTIFIER)
+*/
+
+"TextFacebook" = "Facebook";
+"TextMessenger" = "Messenger";
+"TextTwitter" = "Twitter";
+"TextWhatsapp" = "Whatsapp";
+"TextMail" = "Correo";
+
+"TextAppTitle" = "Perúticones";
+"TextEmailSettings" = "Por favor, configurar los ajustes de correo electrónico a continuación, intente usar esta función de nuevo.";
+"TextShareNoWhatsapp" = "Por favor, instalar la app WhatsApp a continuación, intente usar esta función de nuevo";
+
+/* Buttons */
+
+"TextButtonCancel" = "Cancelar";
+"TextButtonSettings" = "Ajustes";
+"TextButtonAccept" = "Aceptar";
+"TextButtonAllow" = "Permitir";
+
+/* Keyboard */
+"TextCopyKeyboard" = "Perúticon se ha copiado, ¡Ahora pégalo!";
+"TextAllowKeyboard" = "Asegúrate de haber ingresado a Perúticones, que Acceso Completo esté habilitado en la configuración de teclado.";
+
+"TextSetupKeyboard_1" = "Abre TextSettings luego ir a TextGeneral";
+"TextSetupKeyboard_2" = "Escoge TextKeyboard y luego Text2Keyboard";
+"TextSetupKeyboard_3" = "Presiona TextAddNewKeyboard, busca TextPeruticones";
+"TextSetupKeyboard_4" = "Presiona TextPeruticones";
+"TextSetupKeyboard_5" = "Presiona TextAllowFullAcessKeyboard";
+"TextSetupKeyboard_6" = "Lee la ventana informativa y presiona TextButtonAllow";
+"TextSetupKeyboard_7" = "Nosotros no leemos o almacenamos nada de lo que tu tipeas";
+
+"TextSettings" = "Ajustes";
+"TextGeneral" = "General";
+"TextKeyboard" = "Teclado";
+"Text2Keyboard" = "Teclados";
+"TextPeruticones" = "Perúticones";
+"TextAddNewKeyboard" = "Agregar Nuevo Teclado";
+"TextAllowFullAcessKeyboard" = "Permitir Acceso Completo";
